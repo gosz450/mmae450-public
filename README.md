@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/figures/pinn_architecture.png" width="48%">
+  <img src="assets/figures/pinn_architecture.png" width="88%">
 </p>
 
 <h1 align="center">MMAE 450 — Computational Mechanics II</h1>
