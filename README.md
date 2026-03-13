@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img src="assets/beam_problem.png" width="48%">
-  <img src="assets/pinn_architecture.png" width="48%">
+  <img src="assets/figures/beam_problem.png" width="48%">
+  <img src="assets/figures/pinn_architecture.png" width="48%">
 </p>
 
 <h1 align="center">MMAE 450 — Computational Mechanics</h1>
