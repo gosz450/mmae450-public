@@ -3,16 +3,6 @@
   <img src="assets/figures/pinn_architecture.png" width="88%">
 </p>
 
-<h1 align="center">MMAE 450 — Computational Mechanics II</h1>
-
-<p align="center">
-Finite difference methods, balance laws, and physics-informed neural networks.
-</p>
-
-
-This repository contains the official computational materials for  
-
-
 **MMAE 450: Computational Mechanics II**.
 
 The course builds directly on **MMAE 350** and extends those ideas to
