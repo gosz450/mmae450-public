@@ -1,9 +1,11 @@
 
+
+
+# MMAE 450: Computational Mechanics II
+
 <p align="center">
   <img src="assets/figures/pinn_architecture.png" width="88%">
 </p>
-
-**MMAE 450: Computational Mechanics II**.
 
 The course builds directly on **MMAE 350** and extends those ideas to
 engineering systems governed by **partial differential equations (PDEs)**,
