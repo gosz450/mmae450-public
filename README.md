@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/figures/beam_problem.png" width="48%">
+  <img src="assets/figures/cantilever_beam_pinn_varying_q.png" width="48%">
   <img src="assets/figures/pinn_architecture.png" width="48%">
 </p>
 
